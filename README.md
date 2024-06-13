@@ -1,4 +1,10 @@
-### Hi there 👋
+### Hi there 👋, Im Kyoumas
+
+👷‍♂️ Industrial civil engineer focused on 📊 data analysis and BI. I also love movies and I'm convinced that some graphics can be more epic than a Marvel saga. 
+
+Spoiler: Excel does not have happy endings.
+
+![image](https://github.com/kkyouma/kkyouma/assets/144501527/4c8ebfbf-d7f0-45f4-bbc1-c9c0805c0443)
 
 <!--
 **kkyouma/kkyouma** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
