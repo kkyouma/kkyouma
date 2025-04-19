@@ -1,10 +1,12 @@
-### Hi there 👋, Im Kyoumas
+<div align="center">
+  <a href="https://your-portfolio-url.com">
+    <img width="100%" height="auto" src="https://capsule-render.vercel.app/api?type=blur&height=300&color=gradient&text=Kkyouma&textBg=false&section=header&reversal=false&animation=fadeIn"/>
+  </a>
+</div>
 
-👷‍♂️ Industrial Engineer focused on 📊 data analysis and BI. I also love movies and I'm convinced that some graphics can be more epic than a Marvel saga. 
+<!-- 
+![image](https://github.com/kkyouma/kkyouma/assets/144501527/871f98fc-b23d-4d4e-84e5-02755203706a)  
 
-![image](https://github.com/kkyouma/kkyouma/assets/144501527/871f98fc-b23d-4d4e-84e5-02755203706a)
-
-<!--
 **kkyouma/kkyouma** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
 Here are some ideas to get you started:
