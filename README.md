@@ -1,22 +1,23 @@
+### Hi, I'm
+
 <div align="center">
   <a href="https://your-portfolio-url.com">
     <img width="100%" height="auto" src="https://capsule-render.vercel.app/api?type=blur&height=300&color=gradient&text=Kkyouma&textBg=false&section=header&reversal=false&animation=fadeIn"/>
   </a>
 </div>
 
-<!-- 
-![image](https://github.com/kkyouma/kkyouma/assets/144501527/871f98fc-b23d-4d4e-84e5-02755203706a)  
+Analytics Engineer based in Chile. I work at the intersection of data engineering and business intelligence — turning messy operational data into something people can actually use to make decisions.
 
-**kkyouma/kkyouma** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+---
 
-Here are some ideas to get you started:
+**What I work with** 📊
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+- Python · SQL · dbt
+- GCP (BigQuery, Cloud Storage) · AWS
+- Data modeling, pipelines, and semantic layers
+
+---
+
+**What I'm into outside of work** 🎨
+
+Screenwriting, digital illustration, and music — usually all three at the same time.
